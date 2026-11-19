@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the Phase 2 report when using these computational models."
+type: report
+title: "NANO THERMO-Q Phase 2: Quantum-Diamond Thermal-Magnonic Research, Computational Verification and Concept Architecture"
+authors:
+  - family-names: "Inthavong"
+    given-names: "Kevin"
+    orcid: "https://orcid.org/0009-0005-0901-8383"
+version: "1.0"
+date-released: "2026-11-19"
+license: CC-BY-4.0
+repository-code: "https://github.com/Nanodagr8/nano-thermo-q-phase2"

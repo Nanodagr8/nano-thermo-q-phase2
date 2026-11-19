@@ -32,3 +32,14 @@ The separately curated public-release archive includes the illustrated PDF repor
 ### Research integrity
 
 *Not peer reviewed; not a patentability opinion; not a measured experiment. No physical quantum advantage has been demonstrated.* See the published report's limitations, control requirements, and prior-art bibliography before citing or extrapolating the results.
+
+## Read the report
+
+[Download the 26-page illustrated Phase 2 report](report/NANO_THERMOQ_PHASE2_SCIENTIFIC_REPORT.pdf).
+
+Reproduce the seven public Phase 2 model families with Python and NumPy/SciPy:
+
+```bash
+python -m pip install -r requirements.txt
+python -m unittest -q test_phase2_nv_screen test_phase2_nv_lindblad test_phase2_nv_gate_screen test_phase2_transfer_chain test_phase2_magnon_noise test_phase2_transverse_noise test_phase2_spectral_density
+```
