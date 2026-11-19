@@ -23,7 +23,8 @@ The pre-publication source repository's unrestricted Python test suite ran in th
 ### Publications
 
 - **Phase 1 archived record:** [Zenodo 24338147](https://zenodo.org/records/24338147)
-- **Phase 2 report:** Publication on Zenodo and Academia.edu is being prepared; verified links will be added once those platforms confirm release.
+- **Phase 2 report, published 19 November 2026:** [Zenodo record](https://zenodo.org/records/24364715) · **DOI:** [10.5281/zenodo.24364715](https://doi.org/10.5281/zenodo.24364715) · [GitHub release v1.0](https://github.com/Nanodagr8/nano-thermo-q-phase2/releases/tag/v1.0)
+- **Academia.edu:** publication status not yet verified.
 
 ### Assets and licensing
 
